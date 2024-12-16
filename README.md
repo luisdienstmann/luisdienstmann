@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**luisdienstmann/luisdienstmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Luis!
 
-Here are some ideas to get you started:
+- 🌐 Me especializando em **Desenvolvimento Front-End**
+- 💻 Aprendendo **HTML**, **CSS** e **JavaScript**
+- 📚 Curioso sobre o mundo da **programação** e em constante aprendizado
+- 🎯 Buscando construir projetos que unem funcionalidade e design
+- 📍 Localizado em **Canela, RS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Habilidades em desenvolvimento (em construção):
+- Estruturação de páginas com **HTML5**
+- Estilização responsiva com **CSS3**
+- Interatividade básica com **JavaScript**
+
+🚀 No futuro, quero expandir meus conhecimentos em programação e explorar novas tecnologias. Vamos crescer juntos!
+
+🔗 **Conecte-se comigo**:  
+[GitHub](https://github.com/luisdienstmann) | [LinkedIn](https://www.linkedin.com/in/luis-eduardo-dienstmann-354a12165)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdienstmann&hide=javascript,html)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdienstmann&show_icons=true&theme=transparent)
